@@ -1,4 +1,4 @@
-iuse devopsdemodb;
+use devopsdemodb;
 
  
 CREATE TABLE if not exists `user` (
